@@ -1,7 +1,7 @@
 # TransferableEduProjects
 
-Our experience is, that unfortunately many student projects go by the end of the semester in the trashbin.
-We think that students working on long running projects (for a few years) and projects that solve real issues, have a much richer learning experience that is as close to real practice as can be in an educational setting.
+Many student projects dissapear by the end of the semester in the trashbin. This finite lifetime seems to have an effect on fun, experiencing the real need, and transferabillity. 
+We think that by letting students working on long running projects (for a few years) that are meaningfull (solving an issue for a real customer), provide a much richer learning experience, and brings an experience that is very close to real practice.
 
 When we started this journey end 2019 we encountered many hurdles and unanswered questions, for which we found possible solutions. Still, many questions still reamin. We learn each semester, and make changes or add solutions to our way of working.
 
