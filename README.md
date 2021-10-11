@@ -10,5 +10,5 @@ We try to get inspiration from real life examples like for example experiences f
 This public github has been created with the intention to make our processes and ideas visible to the community. Helping those who want to start en asking those with experience to contribute to the ideas.
 
 At this moment the project consists of:
-* Wiki, that captures the knowledge we built up with these type of student projects
-* Work procedures, describing practical examples on how to set-up development environment that help in easy transfer of projects.
+* <a href="https://github.com/patrickdb/TransferableEduProjects/wiki">Wiki</a>, here we capture the knowledge and challenges on how to set-up, guide and assist in long term student projects. 
+* Work procedures, practical guidelines on how to set-up development environment that help in easy transfer of projects.
