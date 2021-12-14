@@ -15,9 +15,14 @@ At this moment the project consists of:
 * <a href="https://github.com/patrickdb/TransferableEduProjects/issues">Issues</a>. Challenges we currently see and we would like to see picked up in the near future.
 
 ## Call for Contribution
-Feel free to *contribute* by opening an issue in this project to start a discussion on a specific subject in the wiki:
-- If applicable, refer to the wiki page you like to contribute your insights
-- Summarize the change you want to propose
+Feel free to *contribute* by opening an issue in this project to start a discussion on:
+* a specific subject in the wiki 
+* a new topic for discussion, which is not adressed yet 
 
-For each issue a discussion can be started in the community.
+Describe in the issue:
+- If applicable, a reference to the wiki page and section, that you want to discuss
+- ór the new topic you like to adress
+- Describe your thoughts, proposals, etcetera
+
+Everyone can contribute to the discussion of submitted issues.
 Based on the discussion, a decission is made to incorporate the proposal in the Wiki
