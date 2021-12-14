@@ -12,7 +12,7 @@ This public github has been created with the intention to make our processes and
 At this moment the project consists of:
 * <a href="https://github.com/patrickdb/TransferableEduProjects/wiki">Wiki</a>, here we capture the knowledge and challenges on how to set-up, guide and assist in long term student projects. 
 * Work procedures, practical guidelines on how to set-up development environment that help in easy transfer of projects.
-* <a href="https://github.com/patrickdb/TransferableEduProjects/issues">Issues</a>. Challenges we currently see and we would like to see picked up in the near future.
+* <a href="https://github.com/patrickdb/TransferableEduProjects/issues">Issues</a>. Challenges we currently see that are not adressed in the wiki, or proposals for change.
 
 ## Call for Contribution
 Feel free to *contribute* by opening an issue in this project to start a discussion on:
