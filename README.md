@@ -14,4 +14,10 @@ At this moment the project consists of:
 * Work procedures, practical guidelines on how to set-up development environment that help in easy transfer of projects.
 * <a href="https://github.com/patrickdb/TransferableEduProjects/issues">Issues</a>. Challenges we currently see and we would like to see picked up in the near future.
 
-Feel free to contribute.
+##Call for Contribution
+Feel free to *contribute* by opening an issue in this project to start a discussion on a specific subject in the wiki:
+- If applicable, refer to the wiki page you like to contribute your insights
+- Summarize the change you want to propose
+
+For each issue a discussion can be started in the community.
+Based on the discussion, a decission is made to incorporate the proposal in the Wiki
